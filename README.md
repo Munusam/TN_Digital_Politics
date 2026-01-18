@@ -15,8 +15,8 @@
 
 ---
 
-**Author**  
-**Munusamy M** 
+**Authors**  
+**Munusamy M** . **Harsha Sai**
 
 </div>
 
@@ -230,6 +230,7 @@ Data science can responsibly study democracy
 For academic discussion, collaboration, or feedback:
 
 Munusamy M
+Harsha Sai 
 M.Tech Data Science & Artificial Intelligence
 IIT Madras – Zanzibar Campus
 
@@ -253,5 +254,6 @@ This README is:
 🌍 Understandable worldwide
 
 It tells a story, not just code.
+
 
 
