@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Logo.png" width="180"/>
+
 
 # 📊 Social Media and Politics in Tamil Nadu  
 ### Algorithmic Amplification, Political Content, and Public Engagement
@@ -15,8 +15,8 @@
 
 ---
 
-**Authors**  
-**Munusamy M** · **Harsha Sai**
+**Author**  
+**Munusamy M** 
 
 </div>
 
@@ -230,7 +230,6 @@ Data science can responsibly study democracy
 For academic discussion, collaboration, or feedback:
 
 Munusamy M
-Harsha Sai
 M.Tech Data Science & Artificial Intelligence
 IIT Madras – Zanzibar Campus
 
@@ -254,3 +253,4 @@ This README is:
 🌍 Understandable worldwide
 
 It tells a story, not just code.
+
