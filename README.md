@@ -96,8 +96,10 @@ tn_politics_algorithmic_analysis/
 ├── main.py
 ├── requirements.txt
 └── README.md
+---
 
-📊 Methodology (High-Level)
+##**📊 Methodology (High-Level)**
+---
 🔹 Content Typology
 
 Political posts and videos are categorized into:
@@ -254,6 +256,7 @@ This README is:
 🌍 Understandable worldwide
 
 It tells a story, not just code.
+
 
 
 
