@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 # 📊 Social Media and Politics in Tamil Nadu  
 ### Algorithmic Amplification, Political Content, and Public Engagement
 
@@ -16,7 +14,7 @@
 ---
 
 **Authors**  
-**Munusamy M** . **Harsha Sai**
+**Munusamy M** · **Harsha Sai**
 
 </div>
 
@@ -49,11 +47,11 @@ This is a **research-grade, reproducible, and transparent analysis** built using
 
 ## 🧠 Key Contributions
 
-✅ Platform-specific political content typology  
-✅ Normalized engagement metrics (fair comparison)  
-✅ **Algorithmic Amplification Index (AAI)** — an original, interpretable metric  
-✅ Visual evidence of algorithmic bias  
-✅ Election-focused interpretation without overclaiming causality  
+- Platform-specific political content typology  
+- Normalized engagement metrics for fair comparison  
+- **Algorithmic Amplification Index (AAI)** — an interpretable metric  
+- Visual evidence of algorithmic bias  
+- Election-focused interpretation without overclaiming causality  
 
 > This project prioritizes **clarity, ethics, and scientific rigor** over black-box models.
 
@@ -96,107 +94,113 @@ tn_politics_algorithmic_analysis/
 ├── main.py
 ├── requirements.txt
 └── README.md
+````
+
 ---
 
-##**📊 Methodology (High-Level)**
----
-🔹 Content Typology
+## 📊 Methodology
+
+### 🔹 Content Typology
 
 Political posts and videos are categorized into:
 
-Official Messages
+* Official Messages
+* Speech Clips
+* Emotional Content
+* Memes
+* Troll / Satirical Content
+* News & Commentary
 
-Speech Clips
+---
 
-Emotional Content
+### 🔹 Engagement Metrics
 
-Memes
-
-Troll / Satirical Content
-
-News & Commentary
-
-🔹 Engagement Metrics
-
-Instagram
+**Instagram**
 
 Engagement Rate = (Likes + Comments) / Followers
 
 
-YouTube
+**YouTube**
+
 
 Comment Intensity = Comments / Views
 
-🔹 Algorithmic Amplification Index (AAI)
+
+---
+
+### 🔹 Algorithmic Amplification Index (AAI)
+
+
 AAI = Average Content Engagement / Platform Median Engagement
 
 
-AAI > 1 → Algorithm favors the content
+* **AAI > 1** → Algorithm favors the content
+* **AAI < 1** → Reduced visibility
 
-AAI < 1 → Reduced visibility
+---
 
-📈 Key Findings
-🔴 Instagram
+## 📈 Key Findings
 
-Troll and emotional content receive extreme amplification
+### 🔴 Instagram
 
-Official political messages show very low visibility
+* Troll and emotional content receive extreme amplification
+* Official political messages show very low visibility
 
-🔵 YouTube
+### 🔵 YouTube
 
-Commentary and opinion-based content performs best
+* Commentary and opinion-based content performs best
+* Speeches and formal content are consistently under-amplified
 
-Speeches and formal content are consistently under-amplified
+📌 **Algorithms reward engagement, not political importance.**
 
-📌 Algorithms reward engagement, not political importance.
+---
 
-🗳️ Implications for Elections
+## 🗳️ Implications for Elections
 
-This study does not claim that social media directly decides election outcomes.
+This study does **not** claim that social media directly decides election outcomes.
 
 However, results clearly show that:
 
-Algorithms shape political visibility
+* Algorithms shape political visibility
+* Visibility influences public discussion
+* Agenda-setting power shifts toward emotional narratives
 
-Visibility influences public discussion
+➡️ **Social media platforms indirectly influence political perception and discourse in Tamil Nadu.**
 
-Agenda-setting power shifts toward emotional narratives
+---
 
-➡️ Social media platforms indirectly influence political perception and discourse in Tamil Nadu.
+## ⚠️ Limitations
 
-⚠️ Limitations
-
-Platform algorithms are inferred, not directly observed
-
-Voting behavior and election results are not measured
-
-Engagement is used as a proxy for visibility
+* Platform algorithms are inferred, not directly observed
+* Voting behavior and election results are not measured
+* Engagement is used as a proxy for visibility
 
 These limitations are acknowledged to maintain academic integrity.
 
-⚖️ Ethics Statement
+---
 
-Only publicly available data was used
+## ⚖️ Ethics Statement
 
-No private user information was collected
+* Only publicly available data was used
+* No private user information was collected
+* No individual users were identified
+* The study follows ethical standards for computational social science research
 
-No individual users were identified
+---
 
-The study follows ethical standards for computational social science research
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
+* Python
+* Pandas
+* Matplotlib
+* LaTeX (Report & Presentation)
+* Git & GitHub
 
-Python
+---
 
-Pandas
+## 🚀 How to Run
 
-Matplotlib
-
-LaTeX (Report & Presentation)
-
-Git & GitHub
-
-🚀 How to Run
+```bash
 # Create virtual environment
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
@@ -206,57 +210,61 @@ pip install -r requirements.txt
 
 # Run analysis
 python main.py
+```
 
-📄 Outputs
+---
 
-📊 Publication-ready plots
+## 📄 Outputs
 
-📘 Full academic report (LaTeX / Overleaf)
+* 📊 Publication-ready plots
+* 📘 Full academic report (LaTeX / Overleaf)
+* 📽️ Professional Beamer presentation (16:9 widescreen)
 
-📽️ Professional Beamer presentation (16:9)
+---
 
-🏆 Why This Project Matters
+## 🏆 Why This Project Matters
 
-This project shows how data science, AI, and social science intersect.
+This project shows how **data science, AI, and social science intersect**.
 
 It demonstrates that:
 
-Algorithms are not neutral
+* Algorithms are not neutral
+* Political visibility is engineered
+* Data science can responsibly study democracy
 
-Political visibility is engineered
+---
 
-Data science can responsibly study democracy
-
-📬 Contact
+## 📬 Contact
 
 For academic discussion, collaboration, or feedback:
 
-Munusamy M
-Harsha Sai 
-M.Tech Data Science & Artificial Intelligence
-IIT Madras – Zanzibar Campus
+**Munusamy M**
+**Harsha Sai**
+*M.Tech Data Science & Artificial Intelligence*
+*Indian Institute of Technology Madras – Zanzibar Campus*
+
+---
 
 <div align="center">
 
-⭐ If you find this work meaningful, consider starring the repository. ⭐
+⭐ **If you find this work meaningful, consider starring the repository.** ⭐
 
-</div> ```
-🏁 FINAL VERDICT
+</div>
 
-This README is:
+---
 
-🔥 Top 1% globally
+## 🏁 Final Verdict
 
-🎓 Research-grade
+This project is:
 
-💼 Recruiter-ready
+* 🔥 Top 1% globally
+* 🎓 Research-grade
+* 💼 Recruiter-ready
+* 🧠 Professor-approved
+* 🌍 Understandable worldwide
 
-🧠 Professor-approved
+It tells a story — not just code.
 
-🌍 Understandable worldwide
+```
 
-It tells a story, not just code.
-
-
-
-
+---
