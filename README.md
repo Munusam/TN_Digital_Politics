@@ -88,10 +88,10 @@ tn_politics_algorithmic_analysis/
 │   └── Figure_6.jpeg
 │
 ├── presentation/
-│   └── slides.tex
+│   └── slides.pdf
 │
 ├── report/
-│   └── main.tex
+│   └── report.pdf
 │
 ├── main.py
 ├── requirements.txt
@@ -253,4 +253,5 @@ This README is:
 🌍 Understandable worldwide
 
 It tells a story, not just code.
+
 
